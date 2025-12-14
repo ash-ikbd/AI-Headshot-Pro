@@ -26,6 +26,14 @@ export const HEADSHOT_STYLES: HeadshotStyle[] = [
     icon: '🌳'
   },
   {
+    id: 'islamic-traditional',
+    name: 'Islamic Traditional',
+    description: 'Traditional attire with Panjabi, Tupi, and well-groomed beard.',
+    prompt: 'Transform this person into a dignified professional portrait with traditional Islamic styling. The subject should be wearing a crisp Panjabi and a prayer cap (Tupi). Feature a well-groomed beard (Dari). The background should be a clean, neutral studio backdrop. High quality, photorealistic, 8k resolution, soft studio lighting.',
+    previewColor: 'bg-emerald-200',
+    icon: '🕌'
+  },
+  {
     id: 'studio-black',
     name: 'Dramatic Black',
     description: 'High-contrast studio lighting with a black background.',
